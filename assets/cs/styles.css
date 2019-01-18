@@ -1,0 +1,40 @@
+.table-container {
+     min-width: 800px;
+}
+
+.form-container {
+     min-width: 800px;
+}
+
+body {
+     background-image: url("https://imgnooz.com/sites/default/files/wallpaper/travel/67208/union-station-wallpapers-67208-7072163.jpg");
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+
+table {
+     border-collapse: separate;
+     border-spacing: 6px;
+}
+
+.jumbotron {
+     color: white;
+     background-color: rgba(0, 0, 0, 0.3);
+     min-width: 800px;
+}
+
+#time {
+     width: 50%;
+     float: right;
+}
+
+#title {
+     width: 50%;
+}
+
+#tableHeader {
+     display: flex;
+}
